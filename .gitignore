@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+
+# Swift Package Manager
+Package.resolved
+.swiftpm/
+.build/
